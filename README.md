@@ -1,4 +1,4 @@
-# HalloWord
+# HelloWorld
 
 Este é um projeto simples em Python que imprime "Hello, World!" no terminal.
 
